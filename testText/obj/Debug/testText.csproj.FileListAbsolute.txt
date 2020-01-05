@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\testText\testText\bin\Debug\testText.exe.config
+C:\Users\User\source\repos\testText\testText\bin\Debug\testText.exe
+C:\Users\User\source\repos\testText\testText\bin\Debug\testText.pdb
+C:\Users\User\source\repos\testText\testText\obj\Debug\testText.csprojAssemblyReference.cache
+C:\Users\User\source\repos\testText\testText\obj\Debug\testText.Form1.resources
+C:\Users\User\source\repos\testText\testText\obj\Debug\testText.Properties.Resources.resources
+C:\Users\User\source\repos\testText\testText\obj\Debug\testText.csproj.GenerateResource.cache
+C:\Users\User\source\repos\testText\testText\obj\Debug\testText.exe
+C:\Users\User\source\repos\testText\testText\obj\Debug\testText.pdb
